@@ -1,16 +1,58 @@
-### Hi there 👋
-Hello world!
-<!--
-**TuhFox/TuhFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Fadin Egor 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Location: Russia, Moscow region    
+github: github.com/TuhFox
+e-mail: ea.fadin@gmail.com
+
+## Education
+
+2019-2022 **School 1502**
+* _Major: Informatics_  
+* _Location: Moscow region, Russia_
+
+2019-2021 **Yandex Lyceum**
+* _Certificate: 2212 46740
+
+## Job experience
+
+None
+
+#### Main development languages
+
+* Python
+
+#### Other languages
+
+* C/C++
+* Java/Kotlin
+* C#
+
+#### Scripting languages
+
+* Bash
+
+#### System managment
+
+* Linux
+* Windows
+
+#### Version control systems
+
+* git
+
+#### DevOps
+
+* github actions
+
+#### Information security
+
+* Cryptography algorithms
+* OpenSSH
+* Mesh networks
+* Reverse engineering
+
+## Languages
+
+* Russian (Native)
+* English (B1)
