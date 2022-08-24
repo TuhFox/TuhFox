@@ -18,7 +18,7 @@ e-mail: ea.fadin@gmail.com
 
 None
 
-#### Main development languages
+#### Main development language
 
 * Python
 
@@ -28,7 +28,7 @@ None
 * Java/Kotlin
 * C#
 
-#### Scripting languages
+#### Scripting language
 
 * Bash
 
