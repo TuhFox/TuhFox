@@ -25,7 +25,6 @@ None
 #### Other languages
 
 * C/C++
-* Java/Kotlin
 * C#
 
 #### Scripting language
