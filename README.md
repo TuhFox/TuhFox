@@ -12,7 +12,7 @@ e-mail: ea.fadin@gmail.com
 * _Location: Moscow region, Russia_
 
 2019-2021 **Yandex Lyceum**
-* _Certificate: 2212 46740
+* Certificate: 2212 46740
 
 ## Job experience
 
